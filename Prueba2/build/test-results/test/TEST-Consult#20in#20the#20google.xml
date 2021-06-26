@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consult in the google" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-01-22T05:11:13" hostname="LAPTOP-NJAHBN1Q" time="19.359">
+  <properties/>
+  <testcase name="Consult words in the google" classname="Consult in the google" time="19.359">
+    <failure message="java.lang.AssertionError: &#10;Expected: is &quot;LAL&quot;&#10;     but: was &quot;Película de 2011&quot;" type="java.lang.AssertionError">java.lang.AssertionError: 
+Expected: is &quot;LAL&quot;
+     but: was &quot;Película de 2011&quot;
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:301)
+	at certificacion.google.stepdefinitions.ConsulStepDefenitions.myFirstResultLeagueOfLegends(ConsulStepDefenitions.java:53)
+	at ✽.my first result league of legends(src/test/resources/features/consulta.feature:11)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene 22, 2021 12:11:14 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting OperaDriver 87.0.4280.67 (0e5d92df40086cf0050c00f87b11da1b14580930-refs/branch-heads/4280@{#1441}) on port 13431
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping OperaDriver safe.
+OperaDriver was started successfully.
+ene 22, 2021 12:11:20 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"add","add two integers numbers","SUCCESS","2021-01-26T10:18:10.92-05:00[America/Bogota]","0.0","1.83"
+"Count Characters","Count characters of a word","SUCCESS","2021-01-26T10:18:11.732-05:00[America/Bogota]","0.0","1.68"
+"Count Characters","Count characters of a list of word","SUCCESS","2021-01-26T10:18:13.554-05:00[America/Bogota]","0.0","0.12"
+"Rest","Rest integers numbers","SUCCESS","2021-01-26T10:18:11.715-05:00[America/Bogota]","0.0","1.72"

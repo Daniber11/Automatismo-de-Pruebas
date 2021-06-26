@@ -1,0 +1,6 @@
+automatismo/calculo/Subtraction.java
+ automatismo.calculo.Subtraction
+automatismo/calculo/Sum.java
+ automatismo.calculo.Sum
+automatismo/words/CounterCharacters.java
+ automatismo.words.CounterCharacters

@@ -1,0 +1,12 @@
+automatismo/runners/Subtraction.java
+ automatismo.runners.Subtraction
+automatismo/stepDefinitions/AddStepDefinitions.java
+ automatismo.stepDefinitions.AddStepDefinitions
+automatismo/stepDefinitions/RestStepDefinitions.java
+ automatismo.stepDefinitions.RestStepDefinitions
+automatismo/runners/Add.java
+ automatismo.runners.Add
+automatismo/runners/CountCharacters.java
+ automatismo.runners.CountCharacters
+automatismo/stepDefinitions/CountCharactersStepDefinitions.java
+ automatismo.stepDefinitions.CountCharactersStepDefinitions

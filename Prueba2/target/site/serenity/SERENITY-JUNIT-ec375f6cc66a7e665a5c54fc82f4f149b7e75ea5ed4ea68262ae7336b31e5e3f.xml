@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Consult in the google" skipped="0" tests="1" time="17.53" timestamp="2021-01-22 12:11:12"><testcase name="Consult words in the google"><failure message="&#10;Expected: is &quot;LAL&quot;&#10;     but: was &quot;Película de 2011&quot;" type="java.lang.AssertionError">
+Expected: is "LAL"
+     but: was "Película de 2011"</failure><system-err>
+Expected: is "LAL"
+     but: was "Película de 2011"&#13;
+certificacion.google.stepdefinitions.ConsulStepDefenitions.myFirstResultLeagueOfLegends(ConsulStepDefenitions.java:53)&#13;
+✽.my first result league of legends(src/test/resources/features/consulta.feature:11)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YouTube" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-28T01:25:51" hostname="LAPTOP-NJAHBN1Q" time="38.817">
+  <properties/>
+  <testcase name="registerUser" classname="YouTube" time="38.817"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting OperaDriver 87.0.4280.67 (0e5d92df40086cf0050c00f87b11da1b14580930-refs/branch-heads/4280@{#1441}) on port 32180
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping OperaDriver safe.
+OperaDriver was started successfully.
+ene 27, 2021 8:25:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
